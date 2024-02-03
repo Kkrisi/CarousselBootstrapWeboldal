@@ -1,0 +1,74 @@
+body {
+	background-image: url('kepek/hatter.jpg');
+	padding: 10px;
+}
+main {
+	max-width: 80%;
+	width: 800px;
+	background-color: white;
+	margin: auto;
+}
+header {
+	padding: 10px 0px 0px 0px;
+}
+.lista {
+	color: #51aeff;	/*Nem mukodik, bootstrapet nem lehet átirni*/
+}
+.kepek {
+	padding: 10px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.kepek img {
+	padding: 3px;
+	border: 1px solid grey;
+}
+.commentek {
+	padding-top: 5px;
+	padding-bottom: 15px;
+}
+.d-flex {
+	padding: 10px;
+	border: 1px solid grey;
+}
+.tablazat {
+	padding: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
